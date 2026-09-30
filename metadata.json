@@ -1,0 +1,6 @@
+{
+  "name": "SkillPilot – Placement Preparation & Learning Analytics Platform",
+  "description": "Smart placement preparation platform combining DSA practice sheets, aptitude sheets, topic-wise MCQ assessments, instant explanations, weak-topic analysis, and video recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

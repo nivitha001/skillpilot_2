@@ -1,0 +1,66 @@
+[
+  {
+    "id": "top-1",
+    "name": "Quantitative Aptitude",
+    "category": "Aptitude",
+    "order": 1,
+    "enabled": true,
+    "description": "Arithmetic, percentages, profit & loss, algebra"
+  },
+  {
+    "id": "top-2",
+    "name": "Logical Reasoning",
+    "category": "Aptitude",
+    "order": 2,
+    "enabled": true,
+    "description": "Coding-decoding, blood relations, syllogisms, series"
+  },
+  {
+    "id": "top-3",
+    "name": "Verbal Ability",
+    "category": "Aptitude",
+    "order": 3,
+    "enabled": true,
+    "description": "Reading comprehension, grammar, vocabulary, sentence correction"
+  },
+  {
+    "id": "top-4",
+    "name": "Arrays & Two Pointers",
+    "category": "DSA",
+    "order": 4,
+    "enabled": true,
+    "description": "Sliding window, sub-array sums, cyclic sorting"
+  },
+  {
+    "id": "top-5",
+    "name": "Linked Lists & Pointers",
+    "category": "DSA",
+    "order": 5,
+    "enabled": true,
+    "description": "Fast & slow pointers, reversal, cycle detection"
+  },
+  {
+    "id": "top-6",
+    "name": "SQL Joins & Grouping",
+    "category": "SQL",
+    "order": 6,
+    "enabled": true,
+    "description": "INNER, LEFT, RIGHT, FULL OUTER joins, HAVING, aggregations"
+  },
+  {
+    "id": "top-7",
+    "name": "Operating Systems",
+    "category": "Core CS",
+    "order": 7,
+    "enabled": true,
+    "description": "Process synchronization, paging, deadlocks, scheduling"
+  },
+  {
+    "id": "top-8",
+    "name": "Computer Networks",
+    "category": "Core CS",
+    "order": 8,
+    "enabled": true,
+    "description": "OSI model, TCP/IP, DNS, HTTP/HTTPS, routing"
+  }
+]

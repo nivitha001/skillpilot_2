@@ -1,0 +1,63 @@
+[
+  {
+    "id": "usr-admin-01",
+    "name": "SkillPilot Administrator",
+    "email": "admin@skillpilot.com",
+    "password_hash": "085f9122d588ca323aeee7c07d5336a9:69c2bc28b279353276a3acc2ab10a0d9b862336849e36d6c2f51aba69bd181fc6f2d3b3de2a7c2754f68c0412928b908b52f4c4d7081eb1554d3cff7fa331105",
+    "role": "ADMIN",
+    "created_at": "2025-11-01T00:00:00.000Z",
+    "status": "active",
+    "last_login": "2026-09-29T07:20:48.038Z"
+  },
+  {
+    "id": "user-nivitha",
+    "name": "Nivitha",
+    "email": "nivithas2005@gmail.com",
+    "password_hash": "700b5a3020e7d3f9d46015b282754f9e:2b8373f81aa9efd669dba88ef8d77d66eb14aad1120473b0304800dbcce29829d6a15d1cc623f36aac6a9ffe5afc1daca0e789248b1562464688bb00a19c4871",
+    "role": "ADMIN",
+    "created_at": "2026-01-15T00:00:00.000Z",
+    "status": "active",
+    "last_login": "2026-09-29T07:26:44.461Z"
+  },
+  {
+    "id": "usr-rahul-02",
+    "name": "Rahul Sharma",
+    "email": "rahul.s@campus.edu",
+    "password_hash": "233afc4ab3fcd9778c50234a014e96bd:a005a663ab1f01a599eea5daceceb5966a235b8c070b242fdc9eec59db526fdacd3a5951b71891c00fde7d7f40362f37400bf0f71ec026f4d99bb3873d7d9db4",
+    "role": "STUDENT",
+    "created_at": "2026-02-01T00:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "usr-ananya-03",
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer@campus.edu",
+    "password_hash": "1c85dec9d6bc7597c22c8d365a21c2f0:417d5487ab026896b21fe32a3ecbb4376757ff05e9af76c3d603c7563a9b0648554afdd937aca0aa0c481612eaaf908412a15d8be4c6bca1107bef932e4f63b5",
+    "role": "STUDENT",
+    "created_at": "2026-02-10T00:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "user-nivitha-ys",
+    "name": "Nivitha Y S",
+    "email": "nivithays2005@gmail.com",
+    "password_hash": "7e97fefcaf765c5cfc9bb496a5d6257a:e8354d8a9a5ac10f3b0d8bed8c596af349c052996dad154f70a171d31dc9f82176ca95cbd4f60c4a775a79696a630985f7bd339ec8e6efe8607585c5e8659fae",
+    "role": "ADMIN",
+    "status": "active",
+    "created_at": "2026-01-15T00:00:00.000Z",
+    "department": "Computer Science & Engineering",
+    "batch": "2026"
+  },
+  {
+    "id": "usr-1790666795676",
+    "name": "Deepak Raj",
+    "email": "deepak.raj@campus.edu",
+    "password_hash": "8013ad634be19585dfc2ca2977d6a32a:890125647a919d6a283644f935092426ddcb24929ab6089cb3be21b35eb1bb1e78ec27f0875c99353611a6be12437abce582b53cdeeb43927b46c0e460382ddc",
+    "role": "STUDENT",
+    "status": "active",
+    "created_at": "2026-09-29T07:26:35.684Z",
+    "last_login": "2026-09-29T07:26:55.520Z",
+    "department": "CSE",
+    "batch": "2026"
+  }
+]

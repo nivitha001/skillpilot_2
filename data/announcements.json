@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ann-1",
+    "title": "HCL & TCS Grand Placement Drive Preparation Kit Added",
+    "content": "Company-specific mock practice sheets with negative marking analysis are now live for all enrolled students.",
+    "category": "Company",
+    "priority": "high",
+    "createdAt": "2026-09-28T10:00:00.000Z",
+    "active": true
+  },
+  {
+    "id": "ann-2",
+    "title": "New Aptitude Mock Assessment Available",
+    "content": "Full-length 30-minute quantitative and logical mock assessment uploaded with instant detailed video solutions.",
+    "category": "Test",
+    "priority": "medium",
+    "createdAt": "2026-09-27T14:30:00.000Z",
+    "active": true
+  },
+  {
+    "id": "ann-3",
+    "title": "New DSA Top-50 Interview Patterns Released",
+    "content": "Practice Two Pointers, Fast & Slow Pointers, and Dynamic Programming with curated LeetCode mappings.",
+    "category": "DSA",
+    "priority": "medium",
+    "createdAt": "2026-09-25T08:00:00.000Z",
+    "active": true
+  }
+]

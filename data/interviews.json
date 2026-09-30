@@ -1,0 +1,71 @@
+[
+  {
+    "id": "int-hist-01",
+    "userId": "user-nivitha",
+    "candidateName": "Nivitha",
+    "date": "2026-09-27T10:30:00.000Z",
+    "companyTarget": "TCS",
+    "difficulty": "Intermediate",
+    "overallScore": 8.4,
+    "readinessPercentage": 84,
+    "questionsCount": 6,
+    "extractedResume": {
+      "name": "Nivitha",
+      "education": "B.Tech in Computer Science and Engineering, 2026 (CGPA: 8.8)",
+      "skills": ["React", "JavaScript", "TypeScript", "Node.js", "Express", "SQL", "MongoDB", "Git"],
+      "projects": [
+        {
+          "title": "Campus Placement & Mock Assessment Portal",
+          "description": "Full-stack evaluation engine with instant diagnostics and state management.",
+          "tech": ["React", "Express", "SQL"]
+        }
+      ],
+      "internships": [
+        {
+          "company": "TechSphere Solutions",
+          "role": "Web Development Intern",
+          "description": "Built responsive React components and improved page load performance."
+        }
+      ],
+      "certifications": ["Full-Stack Web Development Specialization"],
+      "achievements": ["Solved 200+ LeetCode DSA problems"],
+      "technologies": ["React", "JavaScript", "SQL", "Node.js"]
+    },
+    "report": {
+      "overall_score": 8.4,
+      "technical_score": 8.5,
+      "communication_score": 8.5,
+      "confidence_score": 8.2,
+      "problem_solving_score": 8.4,
+      "interview_readiness_percentage": 84,
+      "readiness_level": "Placement Ready",
+      "strengths": [
+        "Articulated an elaborate answer demonstrating thorough subject matter familiarity.",
+        "Incorporated appropriate industry-standard technical vocabulary and terminology."
+      ],
+      "weaknesses": [
+        "Highlight the 'why' behind architectural choices and mention technical trade-offs."
+      ],
+      "topics_to_improve": ["Complex Dynamic Programming Patterns", "SQL Indexing Strategies"],
+      "recommended_resources": [
+        {
+          "title": "Top-50 Campus Placement DSA Interview Patterns",
+          "type": "Practice Sheet",
+          "description": "Master Two Pointers, Fast & Slow Pointers, Sliding Window, and Tree Traversals."
+        }
+      ]
+    },
+    "turns": [
+      {
+        "questionNumber": 1,
+        "category": "Resume-Based Questions",
+        "question": "Hello Nivitha. Welcome to your TCS technical interview. Please introduce yourself and highlight your core skills.",
+        "studentAnswer": "Good morning. I am Nivitha pursuing B.Tech in CSE. My core strengths are React, JavaScript, SQL, and DSA. I built a campus placement portal and interned at TechSphere Solutions.",
+        "scoreOutOf10": 8.5,
+        "strengths": ["Clear introduction with relevant academic credentials."],
+        "improvements": ["Elaborate on specific project impact."],
+        "betterSampleAnswer": "A strong introduction emphasizes technical passions, major project metrics, and career goals."
+      }
+    ]
+  }
+]
